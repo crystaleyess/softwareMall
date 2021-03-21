@@ -1,0 +1,116 @@
+[
+  [
+    {
+      "name": "图书阅读",
+      "index": "0_0",
+      "forbidden": true
+    },
+    {
+      "name": "实用工具",
+      "index": "0_1",
+      "forbidden": false
+    },
+    {
+      "name": "影音视听",
+      "index": "0_2",
+      "forbidden": false
+    },
+    {
+      "name": "学习教育",
+      "index": "0_3",
+      "forbidden": false
+    },
+    {
+      "name": "时尚购物",
+      "index": "0_4",
+      "forbidden": true
+    },
+    {
+      "name": "效率办公",
+      "index": "0_5",
+      "forbidden": false
+    },
+    {
+      "name": "医疗健康",
+      "index": "0_6",
+      "forbidden": true
+    },
+    {
+      "name": "居家生活",
+      "index": "0_7",
+      "forbidden": true
+    },
+    {
+      "name": "游戏娱乐",
+      "index": "0_8",
+      "forbidden": false
+    },
+    {
+      "name": "聊天社交",
+      "index": "0_9",
+      "forbidden": false
+    },
+    {
+      "name": "新闻资讯",
+      "index": "0_10",
+      "forbidden": true
+    },
+    {
+      "name": "体育运动",
+      "index": "0_11",
+      "forbidden": true
+    }
+  ],
+  [
+    {
+      "name": "战争策略",
+      "index": "1_0",
+      "forbidden": false
+    },
+    {
+      "name": "动作枪战",
+      "index": "1_1",
+      "forbidden": false
+    },
+    {
+      "name": "赛车体育",
+      "index": "1_2",
+      "forbidden": false
+    },
+    {
+      "name": "网游RPG",
+      "index": "1_3",
+      "forbidden": false
+    },
+    {
+      "name": "棋牌桌游",
+      "index": "1_4",
+      "forbidden": false
+    },
+    {
+      "name": "格斗快打",
+      "index": "1_5",
+      "forbidden": false
+    },
+    {
+      "name": "儿童益智",
+      "index": "1_6",
+      "forbidden": false
+    },
+    {
+      "name": "休闲创意",
+      "index": "1_7",
+      "forbidden": false
+    },
+    {
+      "name": "飞行空战",
+      "index": "1_8",
+      "forbidden": false
+    },
+    {
+      "name": "跑酷闯关",
+      "index": "1_9",
+      "forbidden": false
+    }
+  ]
+]
