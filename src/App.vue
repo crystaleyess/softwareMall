@@ -6,7 +6,15 @@
 
 <script>
 export default {
-  name: 'App'
+  name: 'App',
+  watch: {
+    $route: {
+      handler: function (to, from) {
+        document.documentElement.scrollTop = 0
+        document.body.scrollTop = 0
+      }
+    }
+  }
 }
 </script>
 <style>

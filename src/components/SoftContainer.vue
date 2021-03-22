@@ -58,6 +58,7 @@ export default{
 <style scoped>
   #content {
     margin: 20px 0px;
+    text-align: center;
   }
   #content .el-row:not(:last-child){
     margin-bottom: 20px;
