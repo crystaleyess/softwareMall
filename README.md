@@ -16,6 +16,8 @@
 
 >## 3 项目启动： 
 
+>>开发版本：Node == Version 12.13、Vue == Version 2.9.6
+
 >>第一次运行，需要安装第三方依赖：npm install
 
 >>本地服务启动：npm run dev或npm start 
