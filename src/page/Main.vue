@@ -70,7 +70,6 @@ export default {
     // router跳转
     subjectRoute: function (id) {
       this.$router.push({path: '/app/panel/subject', query: {subjectId: id}})
-      console.log(id)
     }
   }
 }

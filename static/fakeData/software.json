@@ -4,14 +4,14 @@
     "logo": "1.jpg",
     "category": "效率办公",
     "recommend": "1",
-    "subjectId": ""
+    "subjectId": "5"
   },
   {
     "logo": "2.jpg",
     "name": "360安全卫士",
     "category": "效率办公",
     "recommend": "1",
-    "subjectId": ""
+    "subjectId": "5"
   },
   {
     "logo": "3.jpg",
@@ -39,7 +39,7 @@
     "name": "网易云音乐",
     "category": "影音视听",
     "recommend": "1",
-    "subjectId": ""
+    "subjectId": "4"
   },
   {
     "logo": "7.jpg",
@@ -53,35 +53,35 @@
     "name": "有道词典",
     "category": "实用工具",
     "recommend": "1",
-    "subjectId": ""
+    "subjectId": "4"
   },
   {
     "logo": "9.jpg",
     "name": "虎牙直播",
     "category": "游戏娱乐",
     "recommend": "1",
-    "subjectId": ""
+    "subjectId": "4"
   },
   {
     "logo": "10.jpg",
     "name": "搜狗输入法",
     "category": "实用工具",
     "recommend": "1",
-    "subjectId": ""
+    "subjectId": "5"
   },
   {
     "logo": "11.jpg",
     "name": "鲁大师",
     "category": "实用工具",
     "recommend": "1",
-    "subjectId": ""
+    "subjectId": "5"
   },
   {
     "logo": "12.jpg",
     "name": "思维导图",
     "category": "实用工具",
     "recommend": "1",
-    "subjectId": ""
+    "subjectId": "4"
   },
 
   {
@@ -110,7 +110,7 @@
     "logo": "16.jpg",
     "category":"影音视听",
     "recommend": "2",
-    "subjectId": ""
+    "subjectId": "5"
   },
   {
     "name": "英雄联盟",
