@@ -95,10 +95,10 @@ export default{
     },
     routerGo: function (event) {
       var target = event.target
-      if (target.className.indexOf('not-active') > 0) {
+      if (target.className.indexOf('not-active') > -1) {
         return false
       } else {
-        this.$router.push({path: '/app/panel/category', query: {category: target.dataset.index, name: target.textContent.trim()}})
+        this.$router.push({path: '/app/panel/category', query: {category: target.dataset.index}})
       }
     },
     getTopWords: function () {

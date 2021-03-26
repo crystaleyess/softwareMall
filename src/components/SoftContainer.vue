@@ -11,8 +11,8 @@
           :span="spanValue">
           <el-image :src="baseUrl+item.logo" :style="{width: imgWidth+'px'}"></el-image>
           <div>
-            <span>{{item.name}}</span>
-            <span>{{item.category}}</span>
+            <span class="softName">{{item.name}}</span>
+            <span class="categoryName">{{item.mainCategory}}</span>
           </div>
         </el-col>
         </el-row>
@@ -73,6 +73,7 @@ export default{
     overflow: hidden;
     white-space: nowrap;
     text-overflow:ellipsis;
+    font-weight: normal
   }
   .el-image~div span:hover {
     font-weight: bold;

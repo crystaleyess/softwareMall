@@ -1,9 +1,9 @@
 <template>
   <div class="series">
-    <ul @click="subjectRoute($event)">
-      <li v-for="(item, index) in subjectList" :data-id = "item.id" :key="index">
+    <ul>
+      <li @click="subjectRoute(item.id)" v-for="(item, index) in subjectList" :key="index">
         <el-image :src = "Global.subBaseUrl + item.cover" :data-id = "item.id"
-          style="width: 176px;height: 106px;"></el-image>
+          style="width: 200px;height: 126px;"></el-image>
         <div>
           <span :data-id = "item.id">{{item.name}}</span>
           <span :data-id = "item.id">{{item.time}}</span>
@@ -27,8 +27,7 @@ export default {
     })
   },
   methods: {
-    subjectRoute: function (ev) {
-      var id = ev.target.dataset.id
+    subjectRoute: function (id) {
       this.$router.push({path: '/app/panel/subject', query: {subjectId: id}})
     }
   }
@@ -37,7 +36,7 @@ export default {
 
 <style scoped>
   .series {
-    width: 800px;
+    width: 900px;
     margin: 25px auto;
     font-size: 12px;
   }
@@ -46,13 +45,13 @@ export default {
   }
   ul {
     border-left: 1px solid #e3e3e3;
-    display: table;
-    cursor: pointer
+    display: table
   }
   ul > li:nth-child(-n+3) {
     border-top: 1px solid #e3e3e3;
   }
   ul > li {
+    cursor: pointer;
     display: inline-block;
     padding: 25px 35px;
     border-right: 1px solid #e3e3e3;

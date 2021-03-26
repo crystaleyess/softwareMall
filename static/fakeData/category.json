@@ -18,7 +18,7 @@
     {
       "name": "学习教育",
       "index": "0_3",
-      "forbidden": false
+      "forbidden": true
     },
     {
       "name": "时尚购物",
@@ -63,7 +63,7 @@
   ],
   [
     {
-      "name": "战争策略",
+      "name": "策略对抗",
       "index": "1_0",
       "forbidden": false
     },
@@ -75,7 +75,7 @@
     {
       "name": "赛车体育",
       "index": "1_2",
-      "forbidden": false
+      "forbidden": true
     },
     {
       "name": "网游RPG",
@@ -85,17 +85,17 @@
     {
       "name": "棋牌桌游",
       "index": "1_4",
-      "forbidden": false
+      "forbidden": true
     },
     {
       "name": "格斗快打",
       "index": "1_5",
-      "forbidden": false
+      "forbidden": true
     },
     {
       "name": "儿童益智",
       "index": "1_6",
-      "forbidden": false
+      "forbidden": true
     },
     {
       "name": "休闲创意",
@@ -105,12 +105,12 @@
     {
       "name": "飞行空战",
       "index": "1_8",
-      "forbidden": false
+      "forbidden": true
     },
     {
       "name": "跑酷闯关",
       "index": "1_9",
-      "forbidden": false
+      "forbidden": true
     }
   ]
 ]

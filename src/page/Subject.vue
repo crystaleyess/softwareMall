@@ -29,7 +29,6 @@ export default{
       currentSoftList: []
     }
   },
-  computed: {},
   mounted: function () {
     var subjectId = this.$route.query.subjectId
     getJson('/static/fakeData/subject.json').then((res) => {
