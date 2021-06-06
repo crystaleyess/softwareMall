@@ -1,235 +1,293 @@
 [
   {
+    "id": "1",
     "name": "WPS办公软件",
     "logo": "1.jpg",
     "mainCategory": "效率办公",
     "categoryIndex": ["0_5"],
     "recommend": "1",
-    "subjectId": "5"
+    "subjectId": "5",
+    "download": 92301
   },
   {
+    "id": "2",
     "logo": "2.jpg",
     "name": "360安全卫士",
     "mainCategory": "效率办公",
     "categoryIndex": ["0_5"],
     "recommend": "1",
-    "subjectId": "5"
+    "subjectId": "5",
+    "download": 89004
   },
   {
+    "id": "3",
     "logo": "3.jpg",
     "name": "百度浏览器",
     "mainCategory": "实用工具",
     "categoryIndex": ["0_1"],
     "recommend": "1",
-    "subjectId": ""
+    "subjectId": "",
+    "download": 86722
   },
   {
+    "id": "4",
     "logo": "4.jpg",
     "name": "微信",
     "mainCategory": "聊天社交",
     "categoryIndex": ["0_9"],
     "recommend": "1",
-    "subjectId": "3"
+    "subjectId": "3",
+    "download": 83564
   },
   {
+    "id": "5",
     "logo": "5.jpg",
     "name": "QQ",
     "mainCategory": "聊天社交",
     "categoryIndex": ["0_9"],
     "recommend": "1",
-    "subjectId": "3"
+    "subjectId": "3",
+    "download": 79021
   },
   {
+    "id": "6",
     "logo": "6.jpg",
     "name": "网易云音乐",
     "mainCategory": "影音视听",
     "recommend": "1",
     "categoryIndex": ["0_2"],
-    "subjectId": "4"
+    "subjectId": "4",
+    "download": 77043
   },
   {
+    "id": "7",
     "logo": "7.jpg",
     "name": "酷狗音乐",
     "mainCategory": "影音视听",
     "categoryIndex": ["0_2"],
     "recommend": "1",
-    "subjectId": ""
+    "subjectId": "",
+    "download": 74016
   },
   {
+    "id": "8",
     "logo": "8.jpg",
     "name": "有道词典",
     "mainCategory": "实用工具",
     "recommend": "1",
     "categoryIndex": ["0_1"],
-    "subjectId": "4"
+    "subjectId": "4",
+    "download": 69048
   },
   {
+    "id": "9",
     "logo": "9.jpg",
     "name": "虎牙直播",
     "mainCategory": "游戏娱乐",
     "categoryIndex": ["0_8"],
     "recommend": "1",
-    "subjectId": "4"
+    "subjectId": "4",
+    "download": 67314
   },
   {
+    "id": "10",
     "logo": "10.jpg",
     "name": "搜狗输入法",
     "mainCategory": "实用工具",
     "categoryIndex": ["0_1"],
     "recommend": "1",
-    "subjectId": "5"
+    "subjectId": "5",
+    "download": 60422
   },
   {
+    "id": "11",
     "logo": "11.jpg",
     "name": "鲁大师",
     "mainCategory": "实用工具",
     "categoryIndex": ["0_1"],
     "recommend": "1",
-    "subjectId": "5"
+    "subjectId": "5",
+    "download": 58760
   },
   {
+    "id": "12",
     "logo": "12.jpg",
     "name": "思维导图",
     "mainCategory": "实用工具",
     "categoryIndex": ["0_1"],
     "recommend": "1",
-    "subjectId": "4"
+    "subjectId": "4",
+    "download": 56432
   },
 
   {
+    "id": "13",
     "name": "UC浏览器",
     "logo": "13.jpg",
     "mainCategory":"实用工具",
     "categoryIndex": ["0_1"],
     "recommend": "2",
-    "subjectId": ""
+    "subjectId": "",
+    "download": 52308
   },
   {
+    "id": "14",
     "name": "谷歌浏览器",
     "logo": "14.jpg",
     "mainCategory":"实用工具",
     "categoryIndex": ["0_1"],
     "recommend": "2",
-    "subjectId": ""
+    "subjectId": "",
+    "download": 49132
   },
   {
+    "id": "15",
     "name": "腾讯视频",
     "logo": "15.jpg",
     "mainCategory":"影音视听",
     "categoryIndex": ["0_2"],
     "recommend": "2",
-    "subjectId": "3"
+    "subjectId": "3",
+    "download": 48117
   },
   {
+    "id": "16",
     "name": "优酷视频",
     "logo": "16.jpg",
     "mainCategory":"影音视听",
     "categoryIndex": ["0_2"],
     "recommend": "2",
-    "subjectId": "5"
+    "subjectId": "5",
+    "download": 46096
   },
   {
+    "id": "17",
     "name": "英雄联盟",
     "logo": "17.jpg",
     "mainCategory":"游戏娱乐",
     "categoryIndex": ["0_8", "1_0"],
     "recommend": "2",
-    "subjectId": "3"
+    "subjectId": "3",
+    "download": 44168
   },
   {
+    "id": "18",
     "name": "迅雷",
     "logo": "18.jpg",
     "mainCategory":"实用工具",
     "categoryIndex": ["0_1", "1_3"],
     "recommend": "2",
-    "subjectId": ""
+    "subjectId": "",
+    "download": 43567
   },
   {
+    "id": "19",
     "name": "爱奇艺",
     "logo": "19.jpg",
     "mainCategory":"影音视听",
     "categoryIndex": ["0_2"],
     "recommend": "2",
-    "subjectId": ""
+    "subjectId": "",
+    "download": 40126
   },
   {
+    "id": "20",
     "name": "QQ游戏",
     "logo": "20.jpg",
     "mainCategory":"游戏娱乐",
     "categoryIndex": ["0_8", "1_7"],
     "recommend": "2",
-    "subjectId": "3"
+    "subjectId": "3",
+    "download": 39709
   },
   {
+    "id": "21",
     "name": "绝地求生",
     "logo": "21.jpg",
     "mainCategory":"游戏娱乐",
     "categoryIndex": ["0_8", "1_1"],
     "recommend": "2",
-    "subjectId": ""
+    "subjectId": "",
+    "download": 36971
   },
   {
+    "id": "22",
     "name": "YY语音",
     "logo": "22.jpg",
     "mainCategory":"聊天社交",
     "categoryIndex": ["0_9"],
     "recommend": "2",
-    "subjectId": ""
+    "subjectId": "",
+    "download": 34142
   },
   {
+    "id": "23",
     "name": "CSGO",
     "logo": "23.jpg",
     "mainCategory":"游戏娱乐",
     "categoryIndex": ["0_8", "1_1"],
     "recommend": "2",
-    "subjectId": ""
+    "subjectId": "",
+    "download": 33961
   },
   {
+    "id": "24",
     "name": "逆水寒",
     "logo": "24.jpg",
     "mainCategory":"游戏娱乐",
     "categoryIndex": ["0_8", "1_3"],
     "recommend": "2",
-    "subjectId": "2"
+    "subjectId": "2",
+    "download": 33017
   },
   {
+    "id": "25",
     "name": "魔兽争霸",
     "logo": "25.jpg",
     "mainCategory":"游戏娱乐",
     "categoryIndex": ["0_8", "1_0"],
     "recommend": "",
-    "subjectId": "1"
+    "subjectId": "1",
+    "download": 31420
   },
   {
+    "id": "26",
     "name": "共和国之辉",
     "logo": "26.jpg",
     "mainCategory":"游戏娱乐",
     "categoryIndex": ["0_8"],
     "recommend": "",
-    "subjectId": "1"
+    "subjectId": "1",
+    "download": 29051
   },
   {
+    "id": "27",
     "name": "帝国时代",
     "logo": "27.jpg",
     "mainCategory":"游戏娱乐",
     "categoryIndex": ["0_8", "1_0"],
     "recommend": "",
-    "subjectId": "1"
+    "subjectId": "1",
+    "download": 27149
   },
   {
+    "id": "28",
     "name": "流放之路",
     "logo": "28.jpg",
     "mainCategory":"游戏娱乐",
     "categoryIndex": ["0_8", "1_3"],
     "recommend": "",
-    "subjectId": "2"
+    "subjectId": "2",
+    "download": 26800
   },
   {
+    "id": "29",
     "name": "赛博朋克",
     "logo": "29.jpg",
     "mainCategory":"游戏娱乐",
     "categoryIndex": ["0_8", "1_3"],
     "recommend": "",
-    "subjectId": "2"
+    "subjectId": "2",
+    "download": 25584
   }
 ]
